@@ -1,15 +1,8 @@
-name = "سدين الشماسين"
-major = "ذكاء الأعمال وتحليل البيانات"
-university = "جامعة البلقاء التطبيقية - كلية الكرك"
-graduation_year = 2026
-hobby = "تحليل البيانات"
+# Student Profile Project
 
-print("Student Profile")
-print("----------------")
-print("Name:", name)
-print("Major:", major)
-print("University:", university)
-print("Graduation Year:", graduation_year)
-print("Hobby:", hobby)
-print("Thank you!")
- 
+## Description
+A simple Python program that displays student profile information.
+
+## How to Run
+```bash
+python main.py
